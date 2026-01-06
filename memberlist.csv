@@ -1,11 +1,8 @@
-name,age
-karim,10
-ahmad,10
-karim,20
-shah,20
-lebron james,45
-Charles Leclerc,67
-Max Verstappen,28
-jamal,10
-F.Alonso,69
-L.Hamilton,58
+name,age,rank,status
+ahmad,10,basic,pending
+karim,20,silver,pending
+shah,20,gold,pending
+lebron james,45,basic,pending
+Charles Leclerc,67,silver,pending
+Max Verstappen,28,gold,pending
+ameen,20,gold,paid

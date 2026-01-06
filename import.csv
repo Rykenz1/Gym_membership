@@ -1,7 +1,8 @@
-name,age
-ahmad,10
-karim,20
-shah,20
-lebron james,45
-Charles Leclerc,67
-Max Verstappen,28
+name,age,rank
+ahmad,10,basic
+karim,20,silver
+shah,20,gold
+lebron james,45,basic
+Charles Leclerc,67,silver
+Max Verstappen,28,gold
+ameen,20,silver
